@@ -39,8 +39,7 @@ int main(int argc, char **argv)
 	}
 	memset(&servaddr, 0, sizeof(servaddr));
 	servaddr.sin_family = AF_INET;
-	servaddr.sin_addr.s_addr = htons(INADDR_ANY);
-	servaddr.sin_port = htons(SERV_PORT);
+	servaddr.sin_addr.s_addr = htons(SERV_PORT);
 	if (bind(listenfd, (SA *)&servaddr, sizeof(servaddr)) == -1)
 	{
 		std::cerr << "error bind\n";

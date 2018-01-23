@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_udpservselect01.dir/udpservselect01.c.o CMakeFiles/out_udpservselect01.dir/home/mrsiz/source_code/my_unp/tcpcliserv/sigchldwait.c.o  -o out_udpservselect01  -L/home/mrsiz/source_code/my_unp/udpcliserv/../lib -lfunc -Wl,-rpath,/home/mrsiz/source_code/my_unp/udpcliserv/../lib 

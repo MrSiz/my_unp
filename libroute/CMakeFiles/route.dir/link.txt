@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libroute.so -o libroute.so CMakeFiles/route.dir/sock_masktop.c.o CMakeFiles/route.dir/get_rtaddrs.c.o 

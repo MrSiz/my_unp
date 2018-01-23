@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_example01.dir/example01.c.o  -o out_example01  -L/home/mrsiz/source_code/my_unp/threads/../lib -lfunc -lpthread -Wl,-rpath,/home/mrsiz/source_code/my_unp/threads/../lib 

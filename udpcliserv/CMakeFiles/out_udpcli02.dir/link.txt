@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_udpcli02.dir/udpcli02.c.o CMakeFiles/out_udpcli02.dir/dgcliaddr.c.o  -o out_udpcli02  -L/home/mrsiz/source_code/my_unp/udpcliserv/../lib -lfunc -Wl,-rpath,/home/mrsiz/source_code/my_unp/udpcliserv/../lib 

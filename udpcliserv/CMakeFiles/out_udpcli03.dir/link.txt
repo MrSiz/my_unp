@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_udpcli03.dir/udpcli03.c.o CMakeFiles/out_udpcli03.dir/home/mrsiz/source_code/my_unp/bcast/dgclibcast1.c.o  -o out_udpcli03  -L/home/mrsiz/source_code/my_unp/udpcliserv/../lib -lfunc -Wl,-rpath,/home/mrsiz/source_code/my_unp/udpcliserv/../lib 

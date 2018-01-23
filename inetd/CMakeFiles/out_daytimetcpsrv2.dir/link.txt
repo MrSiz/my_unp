@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_daytimetcpsrv2.dir/daytimetcpsrv2.c.o  -o out_daytimetcpsrv2  -L/home/mrsiz/source_code/my_unp/inetd/../lib -lfunc -Wl,-rpath,/home/mrsiz/source_code/my_unp/inetd/../lib 

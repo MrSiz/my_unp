@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_web.dir/web.c.o CMakeFiles/out_web.dir/home_page.c.o CMakeFiles/out_web.dir/start_connect.c.o CMakeFiles/out_web.dir/write_get_cmd.c.o  -o out_web  -L/home/mrsiz/source_code/my_unp/nonblock/../lib -lfunc -Wl,-rpath,/home/mrsiz/source_code/my_unp/nonblock/../lib 

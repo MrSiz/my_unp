@@ -1,0 +1,4 @@
+/home/mrsiz/source_code/my_unp/threads/CMakeFiles/rebuild_cache.dir
+/home/mrsiz/source_code/my_unp/threads/CMakeFiles/edit_cache.dir
+/home/mrsiz/source_code/my_unp/threads/CMakeFiles/out_example01.dir
+/home/mrsiz/source_code/my_unp/threads/CMakeFiles/out_tcpserv01.dir

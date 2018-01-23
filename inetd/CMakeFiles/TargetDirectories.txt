@@ -1,0 +1,4 @@
+/home/mrsiz/source_code/my_unp/inetd/CMakeFiles/edit_cache.dir
+/home/mrsiz/source_code/my_unp/inetd/CMakeFiles/out_daytimetcpsrv3.dir
+/home/mrsiz/source_code/my_unp/inetd/CMakeFiles/rebuild_cache.dir
+/home/mrsiz/source_code/my_unp/inetd/CMakeFiles/out_daytimetcpsrv2.dir

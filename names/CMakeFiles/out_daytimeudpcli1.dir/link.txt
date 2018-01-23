@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_daytimeudpcli1.dir/daytimeudpcli1.c.o  -o out_daytimeudpcli1  -L/home/mrsiz/source_code/my_unp/names/../lib -lfunc -Wl,-rpath,/home/mrsiz/source_code/my_unp/names/../lib 

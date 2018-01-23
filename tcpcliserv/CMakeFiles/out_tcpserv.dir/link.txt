@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_tcpserv.dir/tcpserv01.c.o CMakeFiles/out_tcpserv.dir/sigchldwait.c.o CMakeFiles/out_tcpserv.dir/str_echo08.c.o  -o out_tcpserv  -L/home/mrsiz/source_code/my_unp/tcpcliserv/../lib -lfunc -Wl,-rpath,/home/mrsiz/source_code/my_unp/tcpcliserv/../lib 

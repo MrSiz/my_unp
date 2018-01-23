@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/func.dir/tcp_listen.c.o"
+  "CMakeFiles/func.dir/tv_sub.c.o"
+  "CMakeFiles/func.dir/sockatmark.c.o"
+  "CMakeFiles/func.dir/daemon_init.c.o"
+  "CMakeFiles/func.dir/dg_echo.c.o"
+  "CMakeFiles/func.dir/error.c.o"
+  "CMakeFiles/func.dir/host_serv.c.o"
+  "CMakeFiles/func.dir/sock_ntop_host.c.o"
+  "CMakeFiles/func.dir/udp_server.c.o"
+  "CMakeFiles/func.dir/writen.c.o"
+  "CMakeFiles/func.dir/connect_timeo.c.o"
+  "CMakeFiles/func.dir/wrapunix.c.o"
+  "CMakeFiles/func.dir/str_cli.c.o"
+  "CMakeFiles/func.dir/connect_nonb.c.o"
+  "CMakeFiles/func.dir/readline.c.o"
+  "CMakeFiles/func.dir/dg_cli.c.o"
+  "CMakeFiles/func.dir/readable_timeo.c.o"
+  "CMakeFiles/func.dir/signal.c.o"
+  "CMakeFiles/func.dir/tcp_connect.c.o"
+  "CMakeFiles/func.dir/wrapstdio.c.o"
+  "CMakeFiles/func.dir/wraplib.c.o"
+  "CMakeFiles/func.dir/str_echo.c.o"
+  "CMakeFiles/func.dir/udp_connect.c.o"
+  "CMakeFiles/func.dir/wrapsock.c.o"
+  "CMakeFiles/func.dir/read_fd.c.o"
+  "CMakeFiles/func.dir/gf_time.c.o"
+  "CMakeFiles/func.dir/daemon_inetd.c.o"
+  "CMakeFiles/func.dir/sock_ntop.c.o"
+  "CMakeFiles/func.dir/wrappthread.c.o"
+  "CMakeFiles/func.dir/write_fd.c.o"
+  "CMakeFiles/func.dir/udp_client.c.o"
+  "libfunc.pdb"
+  "libfunc.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/func.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

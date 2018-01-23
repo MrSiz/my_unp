@@ -1,0 +1,6 @@
+/home/mrsiz/source_code/my_unp/tcpcliserv/CMakeFiles/rebuild_cache.dir
+/home/mrsiz/source_code/my_unp/tcpcliserv/CMakeFiles/edit_cache.dir
+/home/mrsiz/source_code/my_unp/tcpcliserv/CMakeFiles/out_tcpserv.dir
+/home/mrsiz/source_code/my_unp/tcpcliserv/CMakeFiles/out_tcpcli01.dir
+/home/mrsiz/source_code/my_unp/tcpcliserv/CMakeFiles/out_tcpserv04.dir
+/home/mrsiz/source_code/my_unp/tcpcliserv/CMakeFiles/out_tcpcli04.dir

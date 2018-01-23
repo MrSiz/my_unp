@@ -1,0 +1,6 @@
+/home/mrsiz/source_code/my_unp/intro/CMakeFiles/rebuild_cache.dir
+/home/mrsiz/source_code/my_unp/intro/CMakeFiles/hello.dir
+/home/mrsiz/source_code/my_unp/intro/CMakeFiles/serv.dir
+/home/mrsiz/source_code/my_unp/intro/CMakeFiles/out_byteorder.dir
+/home/mrsiz/source_code/my_unp/intro/CMakeFiles/edit_cache.dir
+/home/mrsiz/source_code/my_unp/intro/CMakeFiles/out_daytimetcpsrv1.dir

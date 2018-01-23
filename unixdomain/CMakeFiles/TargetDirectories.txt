@@ -1,0 +1,4 @@
+/home/mrsiz/source_code/my_unp/unixdomain/CMakeFiles/edit_cache.dir
+/home/mrsiz/source_code/my_unp/unixdomain/CMakeFiles/rebuild_cache.dir
+/home/mrsiz/source_code/my_unp/unixdomain/CMakeFiles/out_mycat.dir
+/home/mrsiz/source_code/my_unp/unixdomain/CMakeFiles/out_unixbind.dir

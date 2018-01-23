@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_daytimetcpsrv1.dir/daytimetcpsrv1.c.o CMakeFiles/out_daytimetcpsrv1.dir/home/mrsiz/source_code/my_unp/key/err_msg_show.c.o CMakeFiles/out_daytimetcpsrv1.dir/home/mrsiz/source_code/my_unp/key/pack_func_imp.c.o  -o out_daytimetcpsrv1 

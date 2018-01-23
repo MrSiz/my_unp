@@ -1,0 +1,3 @@
+/home/mrsiz/source_code/my_unp/sockopt/CMakeFiles/edit_cache.dir
+/home/mrsiz/source_code/my_unp/sockopt/CMakeFiles/rebuild_cache.dir
+/home/mrsiz/source_code/my_unp/sockopt/CMakeFiles/out_checkopts.dir

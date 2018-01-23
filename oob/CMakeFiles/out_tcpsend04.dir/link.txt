@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_tcpsend04.dir/tcpsend04.c.o  -o out_tcpsend04  -L/home/mrsiz/source_code/my_unp/oob/../lib -lfunc -Wl,-rpath,/home/mrsiz/source_code/my_unp/oob/../lib 

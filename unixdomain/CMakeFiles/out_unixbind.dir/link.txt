@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_unixbind.dir/unixbind.c.o  -o out_unixbind  -L/home/mrsiz/source_code/my_unp/unixdomain/../lib -lfunc -Wl,-rpath,/home/mrsiz/source_code/my_unp/unixdomain/../lib 

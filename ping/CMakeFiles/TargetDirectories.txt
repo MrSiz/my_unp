@@ -1,0 +1,3 @@
+/home/mrsiz/source_code/my_unp/ping/CMakeFiles/edit_cache.dir
+/home/mrsiz/source_code/my_unp/ping/CMakeFiles/rebuild_cache.dir
+/home/mrsiz/source_code/my_unp/ping/CMakeFiles/out_main.dir

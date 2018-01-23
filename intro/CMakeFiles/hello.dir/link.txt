@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/hello.dir/daytimetcpcli.c.o CMakeFiles/hello.dir/home/mrsiz/source_code/my_unp/key/err_msg_show.c.o  -o hello 

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_tcpserv01.dir/tcpserv01.c.o  -o out_tcpserv01  -L/home/mrsiz/source_code/my_unp/threads/../lib -lfunc -lpthread -lpthread -Wl,-rpath,/home/mrsiz/source_code/my_unp/threads/../lib 

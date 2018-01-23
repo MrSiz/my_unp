@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_my_daytimetcpcli2.dir/my_daytimetcpcli2.c.o  -o out_my_daytimetcpcli2  -L/home/mrsiz/source_code/my_unp/names/../lib -lfunc -Wl,-rpath,/home/mrsiz/source_code/my_unp/names/../lib 

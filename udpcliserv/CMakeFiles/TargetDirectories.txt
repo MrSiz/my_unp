@@ -1,0 +1,7 @@
+/home/mrsiz/source_code/my_unp/udpcliserv/CMakeFiles/edit_cache.dir
+/home/mrsiz/source_code/my_unp/udpcliserv/CMakeFiles/rebuild_cache.dir
+/home/mrsiz/source_code/my_unp/udpcliserv/CMakeFiles/out_udpservselect01.dir
+/home/mrsiz/source_code/my_unp/udpcliserv/CMakeFiles/out_udpser01.dir
+/home/mrsiz/source_code/my_unp/udpcliserv/CMakeFiles/out_udpcli01.dir
+/home/mrsiz/source_code/my_unp/udpcliserv/CMakeFiles/out_udpcli03.dir
+/home/mrsiz/source_code/my_unp/udpcliserv/CMakeFiles/out_udpcli02.dir

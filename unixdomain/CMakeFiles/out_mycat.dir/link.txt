@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_mycat.dir/mycat.c.o CMakeFiles/out_mycat.dir/myopen.c.o  -o out_mycat  -L/home/mrsiz/source_code/my_unp/unixdomain/../lib -lfunc -Wl,-rpath,/home/mrsiz/source_code/my_unp/unixdomain/../lib 

@@ -1,0 +1,9 @@
+/home/mrsiz/source_code/my_unp/names/CMakeFiles/out_daytimeudpcli1.dir
+/home/mrsiz/source_code/my_unp/names/CMakeFiles/out_hostent.dir
+/home/mrsiz/source_code/my_unp/names/CMakeFiles/rebuild_cache.dir
+/home/mrsiz/source_code/my_unp/names/CMakeFiles/out_daytimetcpcli1.dir
+/home/mrsiz/source_code/my_unp/names/CMakeFiles/edit_cache.dir
+/home/mrsiz/source_code/my_unp/names/CMakeFiles/out_daytimetcpsrv2.dir
+/home/mrsiz/source_code/my_unp/names/CMakeFiles/out_daytimetcpsrv1.dir
+/home/mrsiz/source_code/my_unp/names/CMakeFiles/out_daytimeudpsrv2.dir
+/home/mrsiz/source_code/my_unp/names/CMakeFiles/out_my_daytimetcpcli2.dir

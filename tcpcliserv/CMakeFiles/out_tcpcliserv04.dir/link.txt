@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_tcpcliserv04.dir/tcpcliserv01.c.o CMakeFiles/out_tcpcliserv04.dir/sigchldwait.c.o  -o out_tcpcliserv04  -L/home/mrsiz/source_code/my_unp/tcpcliserv/../lib -lfunc -Wl,-rpath,/home/mrsiz/source_code/my_unp/tcpcliserv/../lib 

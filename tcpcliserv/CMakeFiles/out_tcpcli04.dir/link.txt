@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/out_tcpcli04.dir/tcpcli04.c.o  -o out_tcpcli04  -L/home/mrsiz/source_code/my_unp/tcpcliserv/../lib -lfunc -Wl,-rpath,/home/mrsiz/source_code/my_unp/tcpcliserv/../lib 

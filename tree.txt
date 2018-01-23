@@ -1,0 +1,729 @@
+.
+├── advio
+│   ├── dgclitimeo1.c
+│   ├── dgclitimeo2.c
+│   ├── dgclitimeo3.c
+│   └── str_echo_stdio02.c
+├── inetd
+│   ├── CMakeCache.txt
+│   ├── CMakeFiles
+│   │   ├── 3.5.1
+│   │   │   ├── CMakeCCompiler.cmake
+│   │   │   ├── CMakeCXXCompiler.cmake
+│   │   │   ├── CMakeDetermineCompilerABI_C.bin
+│   │   │   ├── CMakeDetermineCompilerABI_CXX.bin
+│   │   │   ├── CMakeSystem.cmake
+│   │   │   ├── CompilerIdC
+│   │   │   │   ├── a.out
+│   │   │   │   └── CMakeCCompilerId.c
+│   │   │   └── CompilerIdCXX
+│   │   │       ├── a.out
+│   │   │       └── CMakeCXXCompilerId.cpp
+│   │   ├── cmake.check_cache
+│   │   ├── CMakeDirectoryInformation.cmake
+│   │   ├── CMakeOutput.log
+│   │   ├── CMakeTmp
+│   │   ├── feature_tests.bin
+│   │   ├── feature_tests.c
+│   │   ├── feature_tests.cxx
+│   │   ├── Makefile2
+│   │   ├── Makefile.cmake
+│   │   ├── out_daytimetcpsrv2.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── daytimetcpsrv2.c.o
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   └── progress.make
+│   │   ├── out_daytimetcpsrv3.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── daytimetcpsrv3.c.o
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   └── progress.make
+│   │   ├── progress.marks
+│   │   └── TargetDirectories.txt
+│   ├── cmake_install.cmake
+│   ├── CMakeLists.txt
+│   ├── daytimetcpsrv2.c
+│   ├── daytimetcpsrv3.c
+│   ├── Makefile
+│   ├── out_daytimetcpsrv2
+│   └── out_daytimetcpsrv3
+├── intro
+│   ├── byteorder.c
+│   ├── CMakeCache.txt
+│   ├── CMakeFiles
+│   │   ├── 3.5.1
+│   │   │   ├── CMakeCCompiler.cmake
+│   │   │   ├── CMakeCXXCompiler.cmake
+│   │   │   ├── CMakeDetermineCompilerABI_C.bin
+│   │   │   ├── CMakeDetermineCompilerABI_CXX.bin
+│   │   │   ├── CMakeSystem.cmake
+│   │   │   ├── CompilerIdC
+│   │   │   │   ├── a.out
+│   │   │   │   └── CMakeCCompilerId.c
+│   │   │   └── CompilerIdCXX
+│   │   │       ├── a.out
+│   │   │       └── CMakeCXXCompilerId.cpp
+│   │   ├── cmake.check_cache
+│   │   ├── CMakeDirectoryInformation.cmake
+│   │   ├── CMakeOutput.log
+│   │   ├── CMakeTmp
+│   │   ├── feature_tests.bin
+│   │   ├── feature_tests.c
+│   │   ├── feature_tests.cxx
+│   │   ├── hello.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── daytimetcpcli.c.o
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── home
+│   │   │   │   └── mrsiz
+│   │   │   │       └── source_code
+│   │   │   │           └── my_unp
+│   │   │   │               └── key
+│   │   │   │                   └── err_msg_show.c.o
+│   │   │   ├── link.txt
+│   │   │   └── progress.make
+│   │   ├── Makefile2
+│   │   ├── Makefile.cmake
+│   │   ├── out_byteorder.dir
+│   │   │   ├── build.make
+│   │   │   ├── byteorder.c.o
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   └── progress.make
+│   │   ├── out_daytimetcpsrv1.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── daytimetcpsrv1.c.o
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── home
+│   │   │   │   └── mrsiz
+│   │   │   │       └── source_code
+│   │   │   │           └── my_unp
+│   │   │   │               └── key
+│   │   │   │                   ├── err_msg_show.c.o
+│   │   │   │                   └── pack_func_imp.c.o
+│   │   │   ├── link.txt
+│   │   │   └── progress.make
+│   │   ├── progress.marks
+│   │   ├── serv.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── daytimetcpsrv.c.o
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── home
+│   │   │   │   └── mrsiz
+│   │   │   │       └── source_code
+│   │   │   │           └── my_unp
+│   │   │   │               └── key
+│   │   │   │                   ├── err_msg_show.c.o
+│   │   │   │                   └── pack_func_imp.c.o
+│   │   │   ├── link.txt
+│   │   │   └── progress.make
+│   │   ├── TargetDirectories.txt
+│   │   └── zz.dir
+│   │       ├── build.make
+│   │       ├── C.includecache
+│   │       ├── cmake_clean.cmake
+│   │       ├── daytimetcpcli.c.o
+│   │       ├── DependInfo.cmake
+│   │       ├── depend.internal
+│   │       ├── depend.make
+│   │       ├── flags.make
+│   │       ├── home
+│   │       │   └── mrsiz
+│   │       │       └── source_code
+│   │       │           └── my_unp
+│   │       │               └── key
+│   │       │                   └── err_msg_show.c.o
+│   │       ├── link.txt
+│   │       └── progress.make
+│   ├── cmake_install.cmake
+│   ├── CMakeLists.txt
+│   ├── daytimetcpcli.c
+│   ├── daytimetcpcliv6.c
+│   ├── daytimetcpsrv1.c
+│   ├── daytimetcpsrv.c
+│   ├── hello
+│   ├── Makefile
+│   ├── out_byteorder
+│   ├── out_daytimetcpsrv1
+│   └── serv
+├── key
+│   ├── CMakeLists.txt
+│   ├── err_msg_show.c
+│   ├── pack_func_imp.c
+│   └── unp.h
+├── lib
+│   ├── CMakeCache.txt
+│   ├── CMakeFiles
+│   │   ├── 3.5.1
+│   │   │   ├── CMakeCCompiler.cmake
+│   │   │   ├── CMakeCXXCompiler.cmake
+│   │   │   ├── CMakeDetermineCompilerABI_C.bin
+│   │   │   ├── CMakeDetermineCompilerABI_CXX.bin
+│   │   │   ├── CMakeSystem.cmake
+│   │   │   ├── CompilerIdC
+│   │   │   │   ├── a.out
+│   │   │   │   └── CMakeCCompilerId.c
+│   │   │   └── CompilerIdCXX
+│   │   │       ├── a.out
+│   │   │       └── CMakeCXXCompilerId.cpp
+│   │   ├── cmake.check_cache
+│   │   ├── CMakeDirectoryInformation.cmake
+│   │   ├── CMakeOutput.log
+│   │   ├── CMakeTmp
+│   │   ├── feature_tests.bin
+│   │   ├── feature_tests.c
+│   │   ├── feature_tests.cxx
+│   │   ├── func.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── CMakeFiles
+│   │   │   │   ├── 3.5.1
+│   │   │   │   │   └── CompilerIdC
+│   │   │   │   │       └── CMakeCCompilerId.c.o
+│   │   │   │   └── feature_tests.c.o
+│   │   │   ├── connect_timeo.c.o
+│   │   │   ├── daemon_inetd.c.o
+│   │   │   ├── daemon_init.c.o
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── dg_cli.c.o
+│   │   │   ├── dg_echo.c.o
+│   │   │   ├── error.c.o
+│   │   │   ├── flags.make
+│   │   │   ├── host_serv.c.o
+│   │   │   ├── link.txt
+│   │   │   ├── progress.make
+│   │   │   ├── readable_timeo.c.o
+│   │   │   ├── read_fd.c.o
+│   │   │   ├── readline.c.o
+│   │   │   ├── signal.c.o
+│   │   │   ├── sock_ntop.c.o
+│   │   │   ├── str_cli.c.o
+│   │   │   ├── str_echo.c.o
+│   │   │   ├── tcp_connect.c.o
+│   │   │   ├── tcp_listen.c.o
+│   │   │   ├── udp_client.c.o
+│   │   │   ├── udp_connect.c.o
+│   │   │   ├── udp_server.c.o
+│   │   │   ├── wraplib.c.o
+│   │   │   ├── wrapsock.c.o
+│   │   │   ├── wrapstdio.c.o
+│   │   │   ├── wrapunix.c.o
+│   │   │   └── writen.c.o
+│   │   ├── Makefile2
+│   │   ├── Makefile.cmake
+│   │   ├── progress.marks
+│   │   └── TargetDirectories.txt
+│   ├── cmake_install.cmake
+│   ├── CMakeLists.txt
+│   ├── connect_timeo.c
+│   ├── daemon_inetd.c
+│   ├── daemon_init.c
+│   ├── dg_cli.c
+│   ├── dg_echo.c
+│   ├── error.c
+│   ├── host_serv.c
+│   ├── libfunc.so
+│   ├── Makefile
+│   ├── readable_timeo.c
+│   ├── read_fd.c
+│   ├── readline.c
+│   ├── signal.c
+│   ├── sock_ntop.c
+│   ├── str_cli.c
+│   ├── str_echo.c
+│   ├── tcp_connect.c
+│   ├── tcp_listen.c
+│   ├── udp_client.c
+│   ├── udp_connect.c
+│   ├── udp_server.c
+│   ├── wraplib.c
+│   ├── wrapsock.c
+│   ├── wrapstdio.c
+│   ├── wrapunix.c
+│   ├── write_fd.c
+│   └── writen.c
+├── names
+│   ├── CMakeCache.txt
+│   ├── CMakeFiles
+│   │   ├── 3.5.1
+│   │   │   ├── CMakeCCompiler.cmake
+│   │   │   ├── CMakeCXXCompiler.cmake
+│   │   │   ├── CMakeDetermineCompilerABI_C.bin
+│   │   │   ├── CMakeDetermineCompilerABI_CXX.bin
+│   │   │   ├── CMakeSystem.cmake
+│   │   │   ├── CompilerIdC
+│   │   │   │   ├── a.out
+│   │   │   │   └── CMakeCCompilerId.c
+│   │   │   └── CompilerIdCXX
+│   │   │       ├── a.out
+│   │   │       └── CMakeCXXCompilerId.cpp
+│   │   ├── cmake.check_cache
+│   │   ├── CMakeDirectoryInformation.cmake
+│   │   ├── CMakeOutput.log
+│   │   ├── CMakeTmp
+│   │   ├── feature_tests.bin
+│   │   ├── feature_tests.c
+│   │   ├── feature_tests.cxx
+│   │   ├── Makefile2
+│   │   ├── Makefile.cmake
+│   │   ├── out_daytimetcpcli1.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── daytimetcpcli1.c.o
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   └── progress.make
+│   │   ├── out_daytimetcpsrv1.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── daytimetcpsrv1.c.o
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   └── progress.make
+│   │   ├── out_daytimetcpsrv2.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── daytimetcpsrv2.c.o
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   └── progress.make
+│   │   ├── out_daytimeudpcli1.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── daytimeudpcli1.c.o
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   └── progress.make
+│   │   ├── out_daytimeudpsrv2.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── daytimeudpsrv2.c.o
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   └── progress.make
+│   │   ├── out_hostent.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── hostent.c.o
+│   │   │   ├── link.txt
+│   │   │   └── progress.make
+│   │   ├── out_my_daytimetcpcli2.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   ├── my_daytimetcpcli2.c.o
+│   │   │   └── progress.make
+│   │   ├── progress.marks
+│   │   └── TargetDirectories.txt
+│   ├── cmake_install.cmake
+│   ├── CMakeLists.txt
+│   ├── daytimetcpcli1.c
+│   ├── daytimetcpsrv1.c
+│   ├── daytimetcpsrv2.c
+│   ├── daytimeudpcli1.c
+│   ├── daytimeudpsrv2.c
+│   ├── hostent.c
+│   ├── Makefile
+│   ├── my_daytimetcpcli2.c
+│   ├── out_daytimetcpcli1
+│   ├── out_daytimetcpsrv1
+│   ├── out_daytimetcpsrv2
+│   ├── out_daytimeudpcli1
+│   ├── out_daytimeudpsrv2
+│   ├── out_hostent
+│   └── out_my_daytimetcpcli2
+├── problem
+│   ├── fflush.md
+│   └── note1.md
+├── select
+│   ├── CMakeLists.txt
+│   ├── strcliselect01.c
+│   └── strcliselect02.c
+├── sockopt
+│   ├── checkopts.c
+│   ├── CMakeCache.txt
+│   ├── CMakeFiles
+│   │   ├── 3.5.1
+│   │   │   ├── CMakeCCompiler.cmake
+│   │   │   ├── CMakeCXXCompiler.cmake
+│   │   │   ├── CMakeDetermineCompilerABI_C.bin
+│   │   │   ├── CMakeDetermineCompilerABI_CXX.bin
+│   │   │   ├── CMakeSystem.cmake
+│   │   │   ├── CompilerIdC
+│   │   │   │   ├── a.out
+│   │   │   │   └── CMakeCCompilerId.c
+│   │   │   └── CompilerIdCXX
+│   │   │       ├── a.out
+│   │   │       └── CMakeCXXCompilerId.cpp
+│   │   ├── cmake.check_cache
+│   │   ├── CMakeDirectoryInformation.cmake
+│   │   ├── CMakeOutput.log
+│   │   ├── CMakeTmp
+│   │   ├── feature_tests.bin
+│   │   ├── feature_tests.c
+│   │   ├── feature_tests.cxx
+│   │   ├── Makefile2
+│   │   ├── Makefile.cmake
+│   │   ├── out_checkopts.dir
+│   │   │   ├── build.make
+│   │   │   ├── checkopts.c.o
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   └── progress.make
+│   │   ├── progress.marks
+│   │   └── TargetDirectories.txt
+│   ├── cmake_install.cmake
+│   ├── CMakeLists.txt
+│   ├── Makefile
+│   ├── out_checkopts
+│   └── out_checkopts.txt
+├── tcpcliserv
+│   ├── CMakeCache.txt
+│   ├── CMakeFiles
+│   │   ├── 3.5.1
+│   │   │   ├── CMakeCCompiler.cmake
+│   │   │   ├── CMakeCXXCompiler.cmake
+│   │   │   ├── CMakeDetermineCompilerABI_C.bin
+│   │   │   ├── CMakeDetermineCompilerABI_CXX.bin
+│   │   │   ├── CMakeSystem.cmake
+│   │   │   ├── CompilerIdC
+│   │   │   │   ├── a.out
+│   │   │   │   └── CMakeCCompilerId.c
+│   │   │   └── CompilerIdCXX
+│   │   │       ├── a.out
+│   │   │       └── CMakeCXXCompilerId.cpp
+│   │   ├── cmake.check_cache
+│   │   ├── CMakeDirectoryInformation.cmake
+│   │   ├── CMakeOutput.log
+│   │   ├── CMakeTmp
+│   │   ├── feature_tests.bin
+│   │   ├── feature_tests.c
+│   │   ├── feature_tests.cxx
+│   │   ├── Makefile2
+│   │   ├── Makefile.cmake
+│   │   ├── out_tcpcli01.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   ├── progress.make
+│   │   │   └── tcpcli01.c.o
+│   │   ├── out_tcpcli04.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   ├── progress.make
+│   │   │   └── tcpcli04.c.o
+│   │   ├── out_tcpcliserv04.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   ├── progress.make
+│   │   │   ├── sigchldwait.c.o
+│   │   │   ├── tcpcli04.c.o
+│   │   │   └── tcpcliserv01.c.o
+│   │   ├── out_tcpcliserv.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   ├── progress.make
+│   │   │   ├── sigchldwait.c.o
+│   │   │   └── tcpcliserv01.c.o
+│   │   ├── out_tcpserv04.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   ├── progress.make
+│   │   │   ├── sigchldwait.c.o
+│   │   │   ├── sigchldwaitpid.c.o
+│   │   │   ├── tcpcliserv01.c.o
+│   │   │   └── tcpserv04.c.o
+│   │   ├── out_tcpserv.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   ├── progress.make
+│   │   │   ├── sigchldwait.c.o
+│   │   │   ├── str_echo08.c.o
+│   │   │   └── tcpserv01.c.o
+│   │   ├── progress.marks
+│   │   └── TargetDirectories.txt
+│   ├── cmake_install.cmake
+│   ├── CMakeLists.txt
+│   ├── Makefile
+│   ├── out_tcpcli01
+│   ├── out_tcpcli04
+│   ├── out_tcpcliserv
+│   ├── out_tcpserv
+│   ├── out_tcpserv04
+│   ├── sigchldwait.c
+│   ├── sigchldwaitpid.c
+│   ├── str_cli09.c
+│   ├── str_echo08.c
+│   ├── str_echo09.c
+│   ├── sum.h
+│   ├── tcpcli01.c
+│   ├── tcpcli04.c
+│   ├── tcpserv01.c
+│   ├── tcpserv04.c
+│   ├── tcpservpoll01.c
+│   └── tcpservselect01.c
+├── test
+│   ├── out_test_tcp_connect
+│   ├── out_test_wait
+│   ├── res.txt
+│   ├── test.c
+│   ├── test_tcp_connect.c
+│   └── test_wait.c
+├── tree.txt
+├── udpcliserv
+│   ├── CMakeCache.txt
+│   ├── CMakeFiles
+│   │   ├── 3.5.1
+│   │   │   ├── CMakeCCompiler.cmake
+│   │   │   ├── CMakeCXXCompiler.cmake
+│   │   │   ├── CMakeDetermineCompilerABI_C.bin
+│   │   │   ├── CMakeDetermineCompilerABI_CXX.bin
+│   │   │   ├── CMakeSystem.cmake
+│   │   │   ├── CompilerIdC
+│   │   │   │   ├── a.out
+│   │   │   │   └── CMakeCCompilerId.c
+│   │   │   └── CompilerIdCXX
+│   │   │       ├── a.out
+│   │   │       └── CMakeCXXCompilerId.cpp
+│   │   ├── cmake.check_cache
+│   │   ├── CMakeDirectoryInformation.cmake
+│   │   ├── CMakeOutput.log
+│   │   ├── CMakeTmp
+│   │   ├── feature_tests.bin
+│   │   ├── feature_tests.c
+│   │   ├── feature_tests.cxx
+│   │   ├── Makefile2
+│   │   ├── Makefile.cmake
+│   │   ├── out_udpcli01.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   ├── progress.make
+│   │   │   └── udpcli01.c.o
+│   │   ├── out_udpcli02.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── dgcliaddr.c.o
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   ├── progress.make
+│   │   │   └── udpcli02.c.o
+│   │   ├── out_udpser01.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   ├── progress.make
+│   │   │   └── udpserv01.c.o
+│   │   ├── out_udpservselect01.dir
+│   │   │   ├── build.make
+│   │   │   ├── C.includecache
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.internal
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── home
+│   │   │   │   └── mrsiz
+│   │   │   │       └── source_code
+│   │   │   │           └── my_unp
+│   │   │   │               └── tcpcliserv
+│   │   │   │                   └── sigchldwait.c.o
+│   │   │   ├── link.txt
+│   │   │   ├── progress.make
+│   │   │   └── udpservselect01.c.o
+│   │   ├── progress.marks
+│   │   └── TargetDirectories.txt
+│   ├── cmake_install.cmake
+│   ├── CMakeLists.txt
+│   ├── dgcliaddr.c
+│   ├── Makefile
+│   ├── out_udpcli01
+│   ├── out_udpcli02
+│   ├── out_udpser01
+│   ├── out_udpservselect01
+│   ├── udpcli01.c
+│   ├── udpcli02.c
+│   ├── udpserv01.c
+│   └── udpservselect01.c
+└── unixdomain
+    ├── CMakeCache.txt
+    ├── CMakeFiles
+    │   ├── 3.5.1
+    │   │   ├── CMakeCCompiler.cmake
+    │   │   ├── CMakeCXXCompiler.cmake
+    │   │   ├── CMakeDetermineCompilerABI_C.bin
+    │   │   ├── CMakeDetermineCompilerABI_CXX.bin
+    │   │   ├── CMakeSystem.cmake
+    │   │   ├── CompilerIdC
+    │   │   │   ├── a.out
+    │   │   │   └── CMakeCCompilerId.c
+    │   │   └── CompilerIdCXX
+    │   │       ├── a.out
+    │   │       └── CMakeCXXCompilerId.cpp
+    │   ├── cmake.check_cache
+    │   ├── CMakeDirectoryInformation.cmake
+    │   ├── CMakeOutput.log
+    │   ├── CMakeTmp
+    │   ├── feature_tests.bin
+    │   ├── feature_tests.c
+    │   ├── feature_tests.cxx
+    │   ├── Makefile2
+    │   ├── Makefile.cmake
+    │   ├── out_mycat.dir
+    │   │   ├── build.make
+    │   │   ├── C.includecache
+    │   │   ├── cmake_clean.cmake
+    │   │   ├── DependInfo.cmake
+    │   │   ├── depend.internal
+    │   │   ├── depend.make
+    │   │   ├── flags.make
+    │   │   ├── link.txt
+    │   │   ├── mycat.c.o
+    │   │   ├── myopen.c.o
+    │   │   └── progress.make
+    │   ├── out_unixbind.dir
+    │   │   ├── build.make
+    │   │   ├── C.includecache
+    │   │   ├── cmake_clean.cmake
+    │   │   ├── DependInfo.cmake
+    │   │   ├── depend.internal
+    │   │   ├── depend.make
+    │   │   ├── flags.make
+    │   │   ├── link.txt
+    │   │   ├── progress.make
+    │   │   └── unixbind.c.o
+    │   ├── progress.marks
+    │   └── TargetDirectories.txt
+    ├── cmake_install.cmake
+    ├── CMakeLists.txt
+    ├── Makefile
+    ├── mycat.c
+    ├── myopen.c
+    ├── openfile.c
+    ├── out_mycat
+    ├── out_unixbind
+    ├── unixbind.c
+    ├── unixdgcli01.c
+    ├── unixdgserv01.c
+    └── unixstrserv01.c
+
+109 directories, 617 files
